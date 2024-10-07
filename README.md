@@ -3,7 +3,16 @@ Hi, this is a multi-PDF chat project using Google Gemini API. It can read multip
 Here is the demo video on YouTube - https://youtu.be/F2k814v3xgY
 
 The code - is straightforward from an online tutorial video (Krish Naik).
-Code Breakdown--
+
+**Some screenshots**
+
+![image](https://github.com/user-attachments/assets/2b57bac6-3a4b-472d-970b-ec62eaef8b65)
+
+![image](https://github.com/user-attachments/assets/9b60aeee-38e3-47d9-bb11-fbb134077fda)
+
+![image](https://github.com/user-attachments/assets/2b1f31e6-fd4d-4366-835e-fd74abd8cac8)
+
+**------Code Breakdown------**
 
 **Imports and Configuration**
 
