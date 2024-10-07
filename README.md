@@ -58,3 +58,6 @@ if st.button("Submit"):: Processes the uploaded PDFs to extract text, chunk it, 
 **Execution**
 
 if __name__ =="__main__":: Ensures that the main function runs only when the script is executed directly, not when imported as a module.
+
+WARNING - allow_dangerous_deserialization is set to True, change according to own requirements.
+
